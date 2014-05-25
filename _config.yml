@@ -1,0 +1,9 @@
+absoluteurl: http://blog.madeforuse.org
+baseurl: ''
+markdown: kramdown
+highlighter: pygments
+exclude:
+ - run.sh
+ - INSTALL.md
+ - README.md
+ - CNAME
