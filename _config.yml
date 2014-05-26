@@ -1,9 +1,12 @@
 absoluteurl: http://blog.madeforuse.org
 baseurl: ''
+source: src
 markdown: kramdown
 highlighter: pygments
+permalink: pretty
 exclude:
  - run.sh
  - INSTALL.md
  - README.md
  - CNAME
+ - src/
