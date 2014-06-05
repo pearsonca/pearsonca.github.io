@@ -2,4 +2,9 @@
 layout: default
 title: CABP Blogging
 ---
-helloworld, now using layout
+list a few categories
+
+- home
+- cv
+- blog posts
+- misc
